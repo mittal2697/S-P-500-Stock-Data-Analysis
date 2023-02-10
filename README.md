@@ -1,1 +1,1 @@
-# S-P-500-Stock-Data-Analysis
+# S&P-500-Stock-Data-Analysis
